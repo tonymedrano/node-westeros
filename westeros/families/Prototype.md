@@ -1,0 +1,2 @@
+## Prototype pattern 
+Refers to creating duplicate object while keeping performance in mind. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object. This pattern involves cloning an existing object and then returning the clone.

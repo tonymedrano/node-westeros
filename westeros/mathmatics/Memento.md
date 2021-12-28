@@ -1,0 +1,2 @@
+## Memento pattern 
+Is a behavioral design pattern. Memento pattern is used to restore state of an object to a previous state. As your application is progressing, you may want to save checkpoints in your application and restore back to those checkpoints later. originator : the object for which the state is to be saved. caretaker : the object that saves the state of the originator.

@@ -1,0 +1,4 @@
+## Iterator Pattern 
+Is a relatively simple and frequently used design pattern. There are a lot of data structures/collections available in every language. Each collection must provide an iterator that lets it iterate through its objects. 
+
+The code is easier to use, understand and test since the iterator uses the Single Responsibility and Open/Closed SOLID principles. The Single Responsibility Principle allows us to clean up the client and collections of the traversal algorithms. The Open/Closed SOLID principle allows us to add new traversal algorithms without having to change the client code.

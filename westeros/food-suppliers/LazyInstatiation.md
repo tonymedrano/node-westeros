@@ -1,0 +1,2 @@
+## LazyInstatiation or Lazy initialization 
+Is a performance optimization. It's used when data is deemed to be 'expensive' for some reason. For example: if the hashCode value for an object might not actually be needed by its caller, always calculating the hashCode for all instances of the object may be felt to be unnecessary.
